@@ -91,9 +91,7 @@ We take the security of your data seriously. We use physical and electronic safe
 
 If you have any questions regarding our privacy policy or any other aspect of the game, please contact us:
 
-- **Email**: andrewmcallisterspain@gmail.com  
-- **Phone**: +34 679 51 12 36  
-- **Address**: CAMPO OLIVAR (Valencia), AVENIDA DE LOS ROSALES número 9, 46110
+- **Email**: tacticianfootballgame@gmail.com  
 
 ---
 
