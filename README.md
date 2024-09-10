@@ -1,100 +1,100 @@
-# Tactician Football - Página de Soporte Oficial
+# Tactician Football - Official Support Page
 
-Bienvenido a la página de soporte oficial de **Tactician Football**, el juego donde cada táctica cuenta y la estrategia lo es todo. Si tienes alguna duda, problema técnico o simplemente necesitas información adicional, aquí encontrarás todos los recursos necesarios. Nuestro equipo está comprometido en brindarte la mejor experiencia posible, tanto dentro como fuera del campo.
-
----
-
-## Soporte Técnico
-
-Para consultas, problemas técnicos o sugerencias, te invitamos a unirte a nuestro servidor de Discord donde nuestro equipo de soporte y la comunidad estarán disponibles para ayudarte en tiempo real:
-
-[Unirse al Discord de Tactician Football](https://discord.gg/V4PJFyXuaD)
+Welcome to the official support page for **Tactician Football**, the game where every tactic matters, and strategy is everything. If you have any questions, technical issues, or just need additional information, here you’ll find all the resources you need. Our team is committed to providing you with the best experience possible, both on and off the field.
 
 ---
 
-## Preguntas Frecuentes (FAQs)
+## Technical Support
 
-### 1. ¿Cómo inicio sesión?
+For inquiries, technical issues, or suggestions, we invite you to join our Discord server where our support team and community will be available to assist you in real-time:
 
-Descarga **Tactician Football** desde la App Store y regístrate usando tu número de teléfono. No necesitas crear una contraseña; solo recibirás un SMS con un código de verificación (OTP) para acceder al juego de manera rápida y segura.
-
-### 2. ¿Qué hacer si olvido mi contraseña?
-
-No es necesario preocuparse por contraseñas en **Tactician Football**. Simplemente ingresa tu número de teléfono cuando inicies sesión y recibirás un SMS con un código para confirmar tu identidad.
-
-### 3. ¿Cómo puedo competir con mis amigos?
-
-Permite el acceso a tus contactos para disfrutar de la experiencia social completa. Esto nos permite sugerirte amigos que ya están usando la app y hacer un seguimiento de su progreso. Para más detalles, consulta nuestra [Política de Privacidad](https://jaisenbe58r.github.io/tacticianfootball-privacy-policy/).
-
-### 4. ¿Qué hago si no quiero compartir mis contactos?
-
-Puedes seguir jugando aunque decidas no compartir tus contactos. Sin embargo, algunas funciones sociales, como competir directamente con amigos, estarán limitadas.
+[Join the Tactician Football Discord](https://discord.gg/V4PJFyXuaD)
 
 ---
 
-## Funciones Clave del Juego
+## Frequently Asked Questions (FAQs)
 
-**Tactician Football** es mucho más que un simple juego de fútbol; es una plataforma táctica donde cada decisión cuenta y tus interacciones sociales enriquecen la experiencia. Ya seas un veterano en la gestión futbolística o nuevo en el mundo de la estrategia, aquí encontrarás un desafío para todos.
+### 1. How do I log in?
 
-- **Desafíos Diarios Dinámicos**: Cada día trae nuevos retos que pondrán a prueba tu destreza táctica. Conéctate con amigos, adapta tu estrategia y escala posiciones en las tablas de clasificación.
+Download **Tactician Football** from the App Store and sign up using your phone number. You don’t need to create a password; you’ll simply receive an SMS with a one-time verification code (OTP) to quickly and securely access the game.
+
+### 2. What if I forget my password?
+
+No need to worry about passwords in **Tactician Football**. Simply enter your phone number when you log in, and you’ll receive an SMS with a code to confirm your identity.
+
+### 3. How can I compete with my friends?
+
+Allow access to your contacts to enjoy the full social experience. This feature lets us suggest friends who are already using the app and track their progress. For more details, see our [Privacy Policy](https://jaisenbe58r.github.io/tacticianfootball-privacy-policy/).
+
+### 4. What if I don’t want to share my contacts?
+
+You can still play even if you choose not to share your contacts. However, some social features, like directly competing with friends, will be limited.
+
+---
+
+## Key Game Features
+
+**Tactician Football** is much more than just a football game; it’s a tactical playground where every decision counts, and your social connections enhance the experience. Whether you’re a seasoned football manager or new to the strategic side of the game, there’s something for everyone with a strong focus on social interaction and competition.
+
+- **Dynamic Daily Challenges**: Every day brings new challenges that will test your tactical skills. Connect with friends, adapt your strategy, and climb the leaderboards.
   
-- **Competición en Tablas de Clasificación Globales**: Sube en las tablas y demuestra que eres el mejor táctico. Sigue el progreso de tus amigos y desafíalos directamente.
+- **Global Leaderboard Competition**: Rise through the ranks and prove you’re the best tactician. Track your friends’ progress and challenge them directly.
 
-- **Tutoriales Detallados**: Aprende desde los fundamentos hasta las tácticas avanzadas con nuestros tutoriales interactivos.
+- **In-Depth Tutorials**: Learn everything from the basics to advanced football tactics with our interactive tutorials.
 
-- **Estrategias Personalizables**: Ajusta tus tácticas en tiempo real. Elige la formación ideal y adapta tu estilo de juego según el rival.
+- **Customizable Strategies**: Adjust your tactics in real time. Choose the perfect formation and tweak your strategy based on your opponents.
 
-- **Experiencia Social Única**: Conéctate con tus contactos para llevar la competencia al siguiente nivel. Sigue el progreso de tus amigos y enfréntalos en desafíos diarios.
-
----
-
-## Recursos para Aprender y Mejorar en el Juego
-
-¿Buscas mejorar tus tácticas o aprender nuevas estrategias? Accede a nuestra completa serie de tutoriales en **YouTube**, donde encontrarás desde guías básicas para comenzar hasta estrategias avanzadas que te ayudarán a dominar los desafíos diarios y competir contra tus amigos.
-
-[Ver Tutoriales en YouTube](https://www.youtube.com/@TacticianFootball)
+- **Unique Social Experience**: Connect with your contacts to take competition to the next level. Track your friends’ progress and face them in daily challenges.
 
 ---
 
-## Términos y Condiciones y Política de Privacidad
+## Resources to Learn and Improve in the Game
 
-Puedes revisar nuestros **Términos y Condiciones** y nuestra **Política de Privacidad** detallada aquí:
+Looking to improve your tactics or learn new strategies? Check out our complete series of tutorials on **YouTube**, where you’ll find guides from basic to advanced strategies that will help you master daily challenges and compete against friends.
 
-[Ver Política de Privacidad](https://jaisenbe58r.github.io/tacticianfootball-privacy-policy/)
-
-### Extracto de la Política de Privacidad
-
-#### Información que Recopilamos:
-
-- **Número de teléfono**: Lo utilizamos para verificar tu cuenta y hacer seguimiento de tu progreso dentro del juego.
-- **Contactos (Opcional)**: Solo con tu consentimiento, accedemos a tus contactos para que puedas competir con amigos.
-- **Datos de uso**: Recopilamos información sobre cómo usas la aplicación para mejorar nuestro servicio y detectar problemas técnicos.
-
-#### Uso de los Datos:
-
-- Para proporcionar y mantener el servicio.
-- Para permitirte participar en las características interactivas del juego.
-- Para ofrecer soporte técnico y mejorar tu experiencia.
-- Para conectarte con tus amigos y mostrarte su progreso dentro del juego (solo con tu consentimiento para acceder a los contactos).
-
-#### Protección de Datos:
-
-Nos tomamos muy en serio la seguridad de tus datos. Utilizamos métodos de protección físicos y electrónicos para asegurar que tu información esté segura. Aunque ningún sistema es 100% seguro, hacemos todo lo posible por salvaguardar tu información.
-
-#### Acceso para Menores de Edad:
-
-**Tactician Football** no está destinado a usuarios menores de 13 años. Si tienes conocimiento de que un menor ha proporcionado sus datos sin el consentimiento de sus padres, por favor contáctanos para eliminar esa información.
+[Watch Tutorials on YouTube](https://www.youtube.com/@TacticianFootball)
 
 ---
 
-## Contacto
+## Terms and Conditions and Privacy Policy
 
-Si tienes alguna duda sobre nuestra política de privacidad o cualquier aspecto del juego, ponte en contacto con nosotros:
+You can review our **Terms and Conditions** and **Privacy Policy** here:
+
+[View Privacy Policy](https://jaisenbe58r.github.io/tacticianfootball-privacy-policy/)
+
+### Privacy Policy Summary
+
+#### Information We Collect:
+
+- **Phone Number**: We use your phone number to verify your account and track your progress in the game.
+- **Contacts (Optional)**: With your consent, we may access your contacts to enhance your in-game experience, allowing you to compete with friends who are also using the app.
+- **Usage Data**: We collect information about how you use the app to improve our service and identify technical issues.
+
+#### How We Use the Data:
+
+- To provide and maintain the service.
+- To allow you to participate in interactive game features.
+- To offer technical support and enhance your experience.
+- To connect you with your friends and display their progress (only with your consent to access contacts).
+
+#### Data Protection:
+
+We take the security of your data seriously. We use physical and electronic safeguards to protect your information. However, please note that no method of transmission over the internet is 100% secure, though we strive to use the best means possible to protect your data.
+
+#### Access for Minors:
+
+**Tactician Football** is not intended for users under the age of 13. If you are aware that a child has provided us with their personal information without parental consent, please contact us to have this information removed.
+
+---
+
+## Contact Us
+
+If you have any questions regarding our privacy policy or any other aspect of the game, please contact us:
 
 - **Email**: andrewmcallisterspain@gmail.com  
-- **Teléfono**: +34 679 51 12 36  
-- **Dirección**: CAMPO OLIVAR (Valencia), AVENIDA DE LOS ROSALES número 9, 46110
+- **Phone**: +34 679 51 12 36  
+- **Address**: CAMPO OLIVAR (Valencia), AVENIDA DE LOS ROSALES número 9, 46110
 
 ---
 
-Gracias por jugar a **Tactician Football**. Estamos aquí para ayudarte y mejorar tu experiencia en el juego. No dudes en contactarnos o unirte a nuestro Discord para cualquier consulta.
+Thank you for playing **Tactician Football**. We are here to help and improve your experience in the game. Don’t hesitate to contact us or join our Discord for any assistance.
